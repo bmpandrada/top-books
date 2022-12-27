@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bmpandrada/top-books.git/static/css/main.65cda5e7.css",
+    "main.js": "/bmpandrada/top-books.git/static/js/main.853e57aa.js",
+    "static/media/fullStack.jpg": "/bmpandrada/top-books.git/static/media/fullStack.87242bb61145b0e717df.jpg",
+    "static/media/javascript.jpg": "/bmpandrada/top-books.git/static/media/javascript.0c6b03a4ca7276fcc666.jpg",
+    "static/media/htmlcss.jpg": "/bmpandrada/top-books.git/static/media/htmlcss.41657ae84b7210124759.jpg",
+    "static/media/react.jpg": "/bmpandrada/top-books.git/static/media/react.3b6ed03cb123adb062ef.jpg",
+    "index.html": "/bmpandrada/top-books.git/index.html",
+    "main.65cda5e7.css.map": "/bmpandrada/top-books.git/static/css/main.65cda5e7.css.map",
+    "main.853e57aa.js.map": "/bmpandrada/top-books.git/static/js/main.853e57aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cda5e7.css",
+    "static/js/main.853e57aa.js"
+  ]
+}
