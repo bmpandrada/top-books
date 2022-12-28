@@ -1,5 +1,4 @@
 import React from "react";
-import { books } from "./Book";
  const Book = (props) =>{
     const {img, title, author, description, btn, number} = props
     // console.log(props)
